@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-distroless-app",
+  "version": "1.0.0",
+  "description": "A hello world app in a distroless container",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
