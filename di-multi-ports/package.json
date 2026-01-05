@@ -1,0 +1,12 @@
+{
+  "name": "node-multi-port-listener",
+  "version": "1.0.0",
+  "description": "Node.js app that listens on multiple ports",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Raghu Ka",
+  "license": "MIT",
+  "dependencies": {}
+}
